@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![<ntahadou>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<ntahadou>)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ntahadou" alt="ntahadou's 42 stats" /></a>
 <!--
 **MAROKI01/MAROKI01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

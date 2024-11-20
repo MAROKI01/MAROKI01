@@ -1,6 +1,5 @@
 ## Hi there 👋
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ntahadou" alt="ntahadou's 42 stats" /></a>
-<!--
+[![<ntahadou>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)<!--
 **MAROKI01/MAROKI01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
